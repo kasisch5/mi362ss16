@@ -1,0 +1,24 @@
+100 - Hosted on Heroku (Required)
+mighty-temple-52924.herokuapp.com
+
+100 - Custom domain name (Required)
+http://chrisk.mm.my/
+
+100 - Instructor/discretionary (Required, looking for quality, originality, spelling/grammer, overall project polish) 
+
+300 - 4 complete HTML pages with content
+I have 4 pages, one "About Me" page, a page showing some of the techical work I wanted to display, another page showing
+more visual work, and finally a page with ways to contact me.  
+
+200 - Custom CSS or Bootstrap for design (all pages)
+I went with a pretty simple white, grey, and teal CSS theme for all of the pages.  
+
+50 - Use at least two custom images (original photography or illustration)
+I have quite a few custom images that are all either illustrations or my own work, or a picture of myself.
+Some of them you can download as well.
+
+50 - Use a 3rd party font icon like FontAwesome
+I used a FontAwesome icon on the Contact page of my website with a book icon.  
+
+50 - Integrate a JavaScript component
+Embeded Google+ with javascript.  
